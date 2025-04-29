@@ -8,3 +8,13 @@ matplotlib
 streamlit
 streamlit_extras
 tqdm
+
+
+os
+json
+librosa
+opencv-python
+numpy
+tensorflow
+streamlit
+streamlit-extras
